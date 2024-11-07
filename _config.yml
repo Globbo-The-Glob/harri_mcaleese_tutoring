@@ -27,14 +27,16 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 disqus: sup
 google_analytics: sdjaidjasd
 avatar: me.jpg
-
+location: M20 Manchester UK
+skin: sunset
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-
+subscribe: false
 remote_theme: ngzhio/jekyll-theme-hamilton
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
