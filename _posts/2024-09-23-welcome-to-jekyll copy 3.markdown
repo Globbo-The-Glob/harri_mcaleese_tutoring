@@ -15,5 +15,11 @@ categories: jekyll update
 - CAD
 - Statistics
 - Robotics
+- History (GCSE and below)
+- English (GCSE and below)
+- Chemistry (GCSE and below)
+- Biology (GCSE and below)
 - Essay Writing
 - Presentation Skills
+
+I am also open to teaching generally for sub GCSE level students.  
