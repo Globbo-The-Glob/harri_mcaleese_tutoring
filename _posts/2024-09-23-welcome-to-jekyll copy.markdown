@@ -3,7 +3,7 @@ layout: post
 title:  "Experience"
 date:   2024-09-23 19:00:27 +0100
 categories: jekyll update
-url: https://globbo-the-glob.github.io/harri_mcaleese_tutoring/experience/
+permalink: https://globbo-the-glob.github.io/harri_mcaleese_tutoring/experience/
 ---
 What experience do I have teaching?
 
