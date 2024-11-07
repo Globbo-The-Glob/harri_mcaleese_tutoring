@@ -5,6 +5,7 @@ date:   2024-11-02 19:00:27 +0100
 categories: jekyll update
 permalink: /contact/
 ---
+My Contact Details
 
 If you'd like to contact me to ask questions or book services you can reach me via:
 
