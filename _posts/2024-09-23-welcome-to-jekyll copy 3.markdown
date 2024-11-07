@@ -3,7 +3,7 @@ layout: post
 title:  "My Subjects"
 date:   2024-09-23 19:20:27 +0100
 categories: jekyll update
-permalink: https://globbo-the-glob.github.io/harri_mcaleese_tutoring/subjects
+permalink: /subjects/
 ---
 
 Most topics I offer tuition up to A-Level (or Equivalent)

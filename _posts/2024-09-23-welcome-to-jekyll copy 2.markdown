@@ -3,7 +3,7 @@ layout: post
 title:  "How I teach"
 date:   2024-09-23 19:00:27 +0100
 categories: jekyll update
-permalink: https://globbo-the-glob.github.io/harri_mcaleese_tutoring/how/
+permalink: /how/
 ---
 How I teach and how lessons work
 
