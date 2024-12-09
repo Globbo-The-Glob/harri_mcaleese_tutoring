@@ -14,8 +14,14 @@ permalink: /rates/
 ------------------------------
 ### GCSE (Equiv.)
 #### - £35 per hour
+<<<<<<< Updated upstream
+=======
 ------------------------------
-### Pre-GCSE 
+### Secondary
+#### - £30 per hour
+>>>>>>> Stashed changes
+------------------------------
+### Primary
 #### - £25 per hour
 ------------------------------
 ### Group Discounts
@@ -23,6 +29,6 @@ permalink: /rates/
 #### - 3 or more: £10ph off each
 An example: 3 student group doing A-level, Total cost = £90 for the group (£30 per tutee). 
 
-I offer the best possible service and I am open to feedback. It's my goal to improve constantly, aligned with the Japenese philosophy of Kaizen, it's all small continuous improvements to be excellent. 
+I want to offer the best possible service and I am open to feedback. It's my goal to improve constantly, aligned with the Japenese philosophy of Kaizen, it's all small continuous improvements to be excellent. 
 
 __I reserve the right to change these fees. However, I will always give due notice for this if it occurs.__
